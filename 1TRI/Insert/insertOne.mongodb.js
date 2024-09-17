@@ -1,6 +1,6 @@
 const database = "BD3-GUILHERME-AULA";
 
-const collection = "LIVRARIA";
+const collection = "Livraria";
 
 use(database);
 
